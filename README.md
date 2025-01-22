@@ -2,8 +2,11 @@
 
 ## Problema de Negocio 
 
-Qual o desempenho de vendas, clientes mais lucrativos e o volume de produtos vendidos, para auxiliar no planejamento de estratégico de marketing e planejamento operacional 
+Qual o desempenho de vendas, clientes mais lucrativos e o volume de produtos vendidos, para auxiliar no planejamento de estratégico de marketing e planejamento operacional. 
 
+## O que busca responder
+
+Identificação de Clientes Mais Lucrativos,Identificação de Clientes Mais Lucrativos, Volume de Produtos Vendidos.
 ## Banco de dados ultilizado
 dw_northwind
 
