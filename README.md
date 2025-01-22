@@ -6,7 +6,8 @@ Qual o desempenho de vendas, clientes mais lucrativos e o volume de produtos ven
 
 ## O que busca responder
 
-Identificação de Clientes Mais Lucrativos,Identificação de Clientes Mais Lucrativos, Volume de Produtos Vendidos.
+Identificação de Clientes Mais Lucrativos, Análise da Crescimento Anual, Volume de Produtos Vendidos.
+
 ## Banco de dados ultilizado
 dw_northwind
 
